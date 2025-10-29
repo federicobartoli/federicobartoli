@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @federicobartoli
-- 👀 I’m interested in FE development and Blockchain world
-- 💞️ I use Javascript , Solidity , Html & Css . FW & Libraries: ReactJs & Svelte
-- 🌱 I’m currently learning React Native & Haskell for SC in Cardano Blockchain.
+- 👀 I’m interested in FE development
+- 💞️ I use Javascript ,Typescript, Html & Css . FW & Libraries: ReactJs & Vuejs
 - 📫 How to reach me : federicobartoli95@gmail.com
 
 <!---
