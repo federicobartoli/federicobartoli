@@ -4,6 +4,10 @@ I'm a Frontend Developer at [Madisoft](https://labs.madisoft.it/), building soli
 
 Lately, I've been spending my free time dipping my toes into the open-source world, reading codebases I admire, and contributing to projects I find interesting.
 
+**🏆 Open Source Highlights:**
+- **[Keycloak](https://github.com/keycloak/keycloak/pull/46578)**: Fixed a cross-user session contamination vulnerability in the core authentication flow.
+- **[Agent Skills](https://github.com/addyosmani/agent-skills/pull/1)**: Added Claude Code plugin support for Addy Osmani's agent tools.
+
 **💻 What I work with:**
 - **Core:** JavaScript, TypeScript, HTML, CSS
 - **Ecosystem:** React, Vue.js, Astro
