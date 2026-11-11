@@ -10,21 +10,12 @@ I also sing. Not a metaphor.
 
 ### 🏆 Open Source Highlights
 
-- **[Agent Skills](https://github.com/addyosmani/agent-skills)** — collaborator on Addy Osmani's project, listed in the README. [Merged PRs](https://github.com/addyosmani/agent-skills/pulls?q=is%3Apr+author%3Afedericobartoli+is%3Amerged)
-
-- **[Keycloak](https://github.com/keycloak/keycloak/pull/46578)**
-  Fixed a cross-user session contamination issue in the offline access authentication flow, preventing stale root authentication sessions from being reused across users.
-
-- **[Keycloakify](https://github.com/keycloakify/keycloakify/pull/1009)**
-  Aligned the `backToApplication` link behavior with Keycloak's standard theme, avoiding broken empty-link rendering in custom login themes.
-
-- **[Orval](https://github.com/orval-labs/orval/pull/3737)**
-  Enforced integer validation in the generated Zod schemas, so OpenAPI `integer` types no longer accept floats at runtime.
-
-- **[webpack-MF2-discovery-service](https://github.com/lucamezzalira/webpack-MF2-discovery-service)**
-  Contributed fixes to Luca Mezzalira's micro-frontend reference project:
-  - [Fixed missing `@babel/runtime` dependency](https://github.com/lucamezzalira/webpack-MF2-discovery-service/pull/3)
-  - [Added discovery service startup script](https://github.com/lucamezzalira/webpack-MF2-discovery-service/pull/5)
+- **[Agent Skills](https://github.com/addyosmani/agent-skills)** (100k+ ★): collaborator on Addy Osmani's project, listed in the README. Authored several skills and the evals that measure them. [Merged PRs](https://github.com/addyosmani/agent-skills/pulls?q=is%3Apr+author%3Afedericobartoli+is%3Amerged)
+- **[Keycloak](https://github.com/keycloak/keycloak/pull/46578)** (37k+ ★): fixed a cross-user session contamination bug in the offline access flow. Merged into core and backported to 26.4 and 26.5.
+- **[Nx](https://github.com/nrwl/nx)** (29k+ ★): 2 fixes merged into @nx/rspack. [#36687](https://github.com/nrwl/nx/pull/36687) · [#36905](https://github.com/nrwl/nx/pull/36905)
+- **[Keycloakify](https://github.com/keycloakify/keycloakify/pull/1009)** (2k+ ★): aligned the backToApplication link with Keycloak's standard theme.
+- **[Orval](https://github.com/orval-labs/orval/pull/3737)** (6k+ ★): integer validation in the generated Zod schemas.
+- **[webpack-MF2-discovery-service](https://github.com/lucamezzalira/webpack-MF2-discovery-service)**: 2 fixes to Luca Mezzalira's micro-frontend reference project.
 
 ---
 
